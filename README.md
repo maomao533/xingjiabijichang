@@ -119,7 +119,7 @@
 
 <span id="kuaileigo"></span>
 ### 2. 快雷GO
-**官网入口**：[快雷GO官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://mitce.net/aff.php?aff=33445)
+**官网入口**：[快雷GO官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)
 **优惠码**：`kuailei888`
 
 **机场信息**

@@ -31,8 +31,8 @@
     - [13. 乌龟加速](#wugui)
     - [14. overwall](#overwall)
 - [总结与建议](#summary)
-- [📌 更新记录](#update)
-- [⚠️ 免责声明](#disclaimer)
+- [更新记录](#update)
+- [免责声明](#disclaimer)
 
 ---
 

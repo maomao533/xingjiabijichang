@@ -40,14 +40,14 @@
 ### ⭐ 性价比最高
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | ChatGPT全解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 
 ### 📋 其他机场（按月付价格排列）
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 1 | [飞鸟云](https://go.clashshome.com/feiniaoyun) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP) |
 | 2 | [杜卡迪](https://go.clashshome.com/dukadi) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT | [备用地址](https://dukadi.info/#/register?code=pHzXpXg3) |
 | 3 | [悦通](https://go.clashshome.com/yuetong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX) |

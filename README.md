@@ -48,7 +48,7 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | ChatGPT全解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH) |
+| 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 
 ### 📋 其他机场（按月付价格排列）
@@ -98,8 +98,8 @@
 **机场信息**
 - 开业时间：2023 年
 - 节点地区：香港、台湾、日本、新加坡、美国等
-- 节点数量：80+
-- 协议：Vless + Hysteria2
+- 节点数量：50+
+- 协议：Vless + Hysteria2 + AnyTLS
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信 / USDT
 - TG 频道：[点击加入](https://t.me/Hongxingyun_bot)

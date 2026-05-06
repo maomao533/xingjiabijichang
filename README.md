@@ -234,7 +234,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 <span id="yuetong"></span>
 ### 3. 悦通
 **官网入口**：[悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)   
-**优惠码**：`XMA30`
+**优惠码**：`无`
 
 **机场信息**
 - 开业时间：2025年中

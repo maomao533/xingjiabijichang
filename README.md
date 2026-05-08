@@ -31,7 +31,7 @@
   - [7. 宝可梦加速](#baokemeng)
   - [8. 渔云](#yuyun)
   - [9. XSUS](#xsus)
-  - [10. 奈云](#naiyun)
+  - [10. 糖果云](#tangguo)
   - [11. 万达云](#wandayun)
   - [12. SSRDOG](#ssrdog)
   - [13. 乌龟加速](#wugui)
@@ -64,7 +64,7 @@
 | 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
 | 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
 | 9 | [XSUS](https://go.clashshome.com/xsusgw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/register?code=G3gBe4Zs) |
-| 10 | [奈云](https://go.clashshome.com/naiyun) | ¥10.66 / 月 (¥128/年) | 海外中转 | 解锁 | [备用地址](http://6.vip.v2ny.me?path=register&code=1wIegJF2) |
+| 10 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | - |
 | 11 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
 | 12 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
 | 13 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
@@ -463,36 +463,40 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 ---
 
-<span id="naiyun"></span>
-### 10. 奈云
-**官网入口**：[奈云官网](https://go.clashshome.com/naiyun)，[备用地址](http://6.vip.v2ny.me?path=register&code=1wIegJF2)   
-**优惠码**：`0308`
+<span id="tangguo"></span>
+### 10. 糖果云
+**官网入口**：[糖果云官网](https://go.clashshome.com/tangguoyun)
+**优惠码**：无
 
 **机场信息**
-- 开业时间：2021 年
-- 节点地区：台湾、日本、美国、英国等 30 多个国家及地区
-- 节点数量：40+
-- 协议：Shadowsocks / V2ray / Trojan
-- 设备限制：5台
+- 节点地区：日本、香港、新加坡、美国
+- 节点数量：46 个（可用率 100%）
+- 协议：VLESS × 41 / Hysteria2 × 5
+- 线路类型：IEPL 专线（AWS 直连为主）
+- 设备限制：不限制，支持家庭成员共享
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/v2naiun)
-- 一键客户端：Windows / Mac / Android
+- 一键客户端：仅支持订阅，无原生客户端（后续将提供）
 
 **优势**：
-- 运营多年的老牌机场，信誉良好。
-- 定制一键客户端，使用方便。
-- 峰值带宽大，不限速。
+- 46/46 节点 100% 可用率，零超时，稳定性极强。
+- 全系 IEPL 专线，速度快，抗封锁能力强。
+- 全套餐赠送 EMBY 影视库，追剧自由。
+- 不限设备，支持家庭成员共享。
+- 支持月付/季付/半年/年付/2年/3年多种周期，长期付款更划算。
 
 **缺点**：
-- 限制5台设备。
+- 节点地区较少（日本/香港/新加坡/美国），无国内入口。
+- 无原生客户端，需自行配置 Clash/Surge 等。
+- 暂不支持退款。
 
 **使用体验**：
-基础套餐年付比较划算，适合长期稳定使用的用户。
+100% 可用率是最大亮点，IEPL 专线配合 EMBY 影视库，日常追剧办公完全够用，不限设备全家共享非常方便。
 
 **套餐一览**：
-- Basic-基础套餐：¥128/年
-- Pro-进阶套餐：¥28/月（388GB）
-- 280G 不限时：¥118/一次性
+- 轻量-月100G：¥18/月（300Mbps，赠 EMBY）
+- 冲浪-月200G：¥28/月（500Mbps，赠 EMBY）
+- 高级-月600G「火爆」：¥68/月（800Mbps，赠 EMBY）
+- 豪华-月1200G：¥118/月（1000Mbps，赠 EMBY）
 
 ---
 
@@ -615,6 +619,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 <span id="update"></span>
 ## 📌 更新记录
 
+- 2026-05-08：移除奈云，新增[糖果云](#tangguo)（IEPL专线 + 100% 可用率 + 赠EMBY）
 - 2026-04-23：更新悦通、M78星云优惠码
 - 2026-04-23：更新红杏云信息
 - 2026-04-20：更新快雷GO价格信息

@@ -164,7 +164,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ## 📋 其他机场（按月付价格排列）
 
 <span id="feiniaoyun"></span>
-### 1. 飞鸟云
+### 1. 飞鸟云（一元机场当中最稳最快的）
 **官网入口**：[飞鸟云官网](https://go.clashshome.com/feiniaoyun)，[备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP)   
 **优惠码**：无
 

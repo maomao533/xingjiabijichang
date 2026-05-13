@@ -61,7 +61,7 @@
 | 4 | [Mitce](https://go.clashshome.com/mitcejc) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=33445) |
 | 5 | [cocoduck](https://go.clashshome.com/cocoduck) | ¥6.40 / 月 (¥77/年) | 全球AI支持 | 稳定全球AI支持 | [备用地址](https://dash.cocoduck.live/auth/register?code=dd1f788232) |
 | 6 | [M78 星云](https://go.clashshome.com/m78xingyun) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/#/register?code=jv0lwSHb) |
-| 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
+| 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
 | 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
 | 9 | [XSUS](https://go.clashshome.com/xsusgw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/register?code=G3gBe4Zs) |
 | 10 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
@@ -391,7 +391,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 对于特殊网络环境（如新疆）的用户非常友好，专线质量可靠。
 
 **套餐一览**：
-- 入门精灵球：¥7.9/月（60GB）
+- 入门精灵球：¥8.9/月（60GB）
 - 中级精灵球：¥19.9/月（180GB）
 - 高级精灵球：¥29.9/月（300GB）
 
@@ -617,7 +617,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
-
+- 2026-05-13：更新[宝可梦加速器](#baokemeng)价格
 - 2026-05-08：移除奈云，新增[糖果云](#tangguo)（IEPL专线 + 100% 可用率 + 赠EMBY）
 - 2026-04-23：更新悦通、M78星云优惠码
 - 2026-04-23：更新红杏云信息

@@ -31,7 +31,7 @@
   - [7. 宝可梦加速](#baokemeng)
   - [8. 渔云](#yuyun)
   - [9. XSUS](#xsus)
-  - [10. 川普云](#trumpyun)
+  - [10. 特朗普云](#trumpyun)
   - [11. 糖果云](#tangguo)
   - [12. 万达云](#wandayun)
   - [13. SSRDOG](#ssrdog)
@@ -65,7 +65,7 @@
 | 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
 | 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
 | 9 | [XSUS](https://go.clashshome.com/xsusgw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/register?code=G3gBe4Zs) |
-| 10 | [川普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | - |
+| 10 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | - |
 | 11 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
 | 12 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
 | 13 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
@@ -466,8 +466,8 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="trumpyun"></span>
-### 10. 川普云 TrumpYun
-**官网入口**：[川普云官网](https://go.clashshome.com/trumpyun)
+### 10. 特朗普云 TrumpYun
+**官网入口**：[特朗普云官网](https://go.clashshome.com/trumpyun)
 **优惠码**：无
 
 **机场信息**
@@ -658,7 +658,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
-- 2026-05-19：新增[川普云 TrumpYun](#trumpyun)
+- 2026-05-19：新增[特朗普云 TrumpYun](#trumpyun)
 - 2026-05-13：更新[宝可梦加速器](#baokemeng)价格
 - 2026-05-08：移除奈云，新增[糖果云](#tangguo)（IEPL专线 + 100% 可用率 + 赠EMBY）
 - 2026-04-23：更新[悦通](https://yuetong.sbs/)、M78星云、[宝可梦加速器](https://baokemengjiasu.top/)优惠码

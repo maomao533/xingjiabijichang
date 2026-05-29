@@ -20,7 +20,8 @@
   - [其他机场（按月付价格排列）](#others)
 - [性价比最高推荐](#best-value)
   - [1. 红杏云](#hongxingyun)
-  - [2. 快雷GO](#kuaileigo)
+  - [2. 特朗普云](#trumpyun)
+  - [3. 快雷GO](#kuaileigo)
 - [其他性价比机场（按月付价格排列）](#others)
   - [1. 飞鸟云](#feiniaoyun)
   - [2. 杜卡迪](#dukadi)
@@ -31,11 +32,10 @@
   - [7. 宝可梦加速](#baokemeng)
   - [8. 渔云](#yuyun)
   - [9. XSUS](#xsus)
-  - [10. 特朗普云](#trumpyun)
-  - [11. 糖果云](#tangguo)
-  - [12. 万达云](#wandayun)
-  - [13. SSRDOG](#ssrdog)
-  - [14. 乌龟加速](#wugui)
+  - [10. 糖果云](#tangguo)
+  - [11. 万达云](#wandayun)
+  - [12. SSRDOG](#ssrdog)
+  - [13. 乌龟加速](#wugui)
 - [总结与建议](#summary)
 - [更新记录](#update)
 - [免责声明](#disclaimer)
@@ -50,6 +50,7 @@
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
 | 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxing24.cc/web/#/login?code=bUIxQadH) |
+| 🥇 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | [备用地址](https://trumpyun.xyz/#/register?code=ZnngCcmM) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 
 ### 📋 其他机场（按月付价格排列）
@@ -65,11 +66,10 @@
 | 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
 | 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
 | 9 | [XSUS](https://go.clashshome.com/xsusgw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/register?code=G3gBe4Zs) |
-| 10 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | - |
-| 11 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
-| 12 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
-| 13 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
-| 14 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
+| 10 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
+| 11 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
+| 12 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
+| 13 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
 
 ---
 
@@ -125,8 +125,47 @@
 
 ---
 
+<span id="trumpyun"></span>
+### 2. 特朗普云 TrumpYun
+**官网入口**：[特朗普云官网](https://go.clashshome.com/trumpyun)
+**优惠码**：无
+
+**机场信息**
+- 开业时间：2025 年
+- 节点地区：香港、台湾、美国、新加坡、日本、马来西亚、印尼等
+- 节点数量：73 个（100% 可用）
+- 协议：SS × 69 / VLESS × 4
+- 线路类型：中转（69个）、直连（4个）
+- 设备限制：不限制
+- 付款方式：支付宝 / 微信 / USDT-TRC20 / USDT-Polygon
+- TG 群组：[点击加入](https://t.me/trumpyun2025)
+- 一键客户端：不支持
+
+**优势**：
+- 73 个节点 100% 全部可用，零超时。
+- 包含中转与 IEPL 高速专线，晚高峰速度快。
+- 支持全球流媒体与 AI 工具深度解锁。
+- 最高 1Gbps 速率，高峰不限速。
+- 严格无日志政策，流量用尽可随时重置或叠加包。
+
+**缺点**：
+- 2025 年新开机场，运营时间较短。
+- 不支持一键客户端，需自行配置订阅。
+
+**使用体验**：
+小众机场，近期严打下晚高峰速度依然很快。73 个节点全部可用，中转线路为主，性价比极高，适合追求高速且预算有限的用户。
+
+**套餐一览**：
+- 110G 轻享版：¥15/月（1Gbps，入门首选）
+- 200G 极速版：¥26/月（1Gbps，日常主力推荐）
+- 300G 尊享版：¥38/月（1Gbps，重度用户首选）
+- 500G 旗舰版：¥55/月（1Gbps，顶级额度）
+- 线路高级定制：¥888/一次性（私有网络，独享带宽）
+
+---
+
 <span id="kuaileigo"></span>
-### 2. 快雷GO
+### 3. 快雷GO
 **官网入口**：[快雷GO官网](https://go.clashshome.com/kuaileigo)，[备用地址](https://www.kuailei.vip/register?code=n5YVQYr2)   
 **优惠码**：`kuailei888`
 
@@ -465,47 +504,8 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 ---
 
-<span id="trumpyun"></span>
-### 10. 特朗普云 TrumpYun
-**官网入口**：[特朗普云官网](https://go.clashshome.com/trumpyun)
-**优惠码**：无
-
-**机场信息**
-- 开业时间：2025 年
-- 节点地区：香港、台湾、美国、新加坡、日本、马来西亚、印尼等
-- 节点数量：73 个（100% 可用）
-- 协议：SS × 69 / VLESS × 4
-- 线路类型：中转（69个）、直连（4个）
-- 设备限制：不限制
-- 付款方式：支付宝 / 微信 / USDT-TRC20 / USDT-Polygon
-- TG 群组：[点击加入](https://t.me/trumpyun2025)
-- 一键客户端：不支持
-
-**优势**：
-- 73 个节点 100% 全部可用，零超时。
-- 包含中转与 IEPL 高速专线，晚高峰速度快。
-- 支持全球流媒体与 AI 工具深度解锁。
-- 最高 1Gbps 速率，高峰不限速。
-- 严格无日志政策，流量用尽可随时重置或叠加包。
-
-**缺点**：
-- 2025 年新开机场，运营时间较短。
-- 不支持一键客户端，需自行配置订阅。
-
-**使用体验**：
-小众机场，近期严打下晚高峰速度依然很快。73 个节点全部可用，中转线路为主，性价比极高，适合追求高速且预算有限的用户。
-
-**套餐一览**：
-- 110G 轻享版：¥15/月（1Gbps，入门首选）
-- 200G 极速版：¥26/月（1Gbps，日常主力推荐）
-- 300G 尊享版：¥38/月（1Gbps，重度用户首选）
-- 500G 旗舰版：¥55/月（1Gbps，顶级额度）
-- 线路高级定制：¥888/一次性（私有网络，独享带宽）
-
----
-
 <span id="tangguo"></span>
-### 11. 糖果云
+### 10. 糖果云
 **官网入口**：[糖果云官网](https://go.clashshome.com/tangguoyun)
 **优惠码**：无
 
@@ -541,7 +541,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wandayun"></span>
-### 12. 万达云机场
+### 11. 万达云机场
 **官网入口**：[万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)   
 **优惠码**：无
 
@@ -577,7 +577,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="ssrdog"></span>
-### 13. SSRDOG
+### 12. SSRDOG
 **官网入口**：[SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
 **优惠码**：无（年付享6折优惠，并赠送2个月，适用轻量/标准/企业套餐）
 
@@ -613,7 +613,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wugui"></span>
-### 14. 乌龟加速
+### 13. 乌龟加速
 **官网入口**：[乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)   
 **优惠码**：`ABING888`（全场 8 折）
 
@@ -649,7 +649,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ## 总结与建议
 
 在选择**性价比机场**时，不要仅仅盯着价格看。**一元机场**和**便宜机场**虽然诱人，但往往在晚高峰速度或节点稳定性上有所妥协。建议采用"主备结合"的策略：
-1. 购买一个带有专线的高性价比机场作为主力（如**红杏云**、**快雷GO**），稳定性和解锁能力都有保障。
+1. 购买一个带有专线的高性价比机场作为主力（如**红杏云**、**特朗普云**、**快雷GO**），稳定性和解锁能力都有保障。
 2. 搭配一个极低价格的年付机场（如飞鸟云、杜卡迪）或不限时流量包（如悦通）作为备用。
 
 这样既能保证日常使用的流畅度，又能在突发情况下永不断网，实现真正的低价高性价比体验。
@@ -658,6 +658,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
+- 2026-05-29：将[特朗普云 TrumpYun](#trumpyun)调整至"性价比最高推荐"分类，位列红杏云之后
 - 2026-05-19：新增[特朗普云 TrumpYun](#trumpyun)
 - 2026-05-13：更新[宝可梦加速器](#baokemeng)价格
 - 2026-05-08：移除奈云，新增[糖果云](#tangguo)（IEPL专线 + 100% 可用率 + 赠EMBY）

@@ -49,7 +49,7 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxing24.cc/web/#/login?code=bUIxQadH) |
+| 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](	https://hongxingyun.app/?code=bUIxQadH) |
 | 🥇 | [特朗普云](https://go.clashshome.com/trumpyun) | ¥15.00 / 月 | 中转+IEPL专线 | 全球流媒体+AI解锁 | [备用地址](https://trumpyun.xyz/#/register?code=ZnngCcmM) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 

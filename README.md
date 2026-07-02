@@ -31,11 +31,10 @@
   - [6. M78 星云](#m78)
   - [7. 宝可梦加速](#baokemeng)
   - [8. 渔云](#yuyun)
-  - [9. 奈云](#naiyun)
-  - [10. 糖果云](#tangguo)
-  - [11. 万达云](#wandayun)
-  - [12. SSRDOG](#ssrdog)
-  - [13. 乌龟加速](#wugui)
+  - [9. 糖果云](#tangguo)
+  - [10. 万达云](#wandayun)
+  - [11. SSRDOG](#ssrdog)
+  - [12. 乌龟加速](#wugui)
 - [总结与建议](#summary)
 - [更新记录](#update)
 - [免责声明](#disclaimer)
@@ -65,11 +64,10 @@
 | 6 | [M78 星云](https://go.clashshome.com/m78xingyun) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/#/register?code=jv0lwSHb) |
 | 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
 | 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
-| 9 | [奈云](https://www.v2ny.com/) | ¥14.00 / 月 (¥168/年 Basic) | 香港自有机房+Trojan直连 | 全流媒体解锁（Netflix/Disney+/ChatGPT） | [官网](https://www.v2ny.com/) |
-| 10 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
-| 11 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
-| 12 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
-| 13 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
+| 9 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
+| 10 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
+| 11 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
+| 12 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
 
 ---
 
@@ -471,48 +469,8 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 ---
 
-<span id="naiyun"></span>
-### 9. 奈云
-**官网入口**：[奈云官网](https://www.v2ny.com/)
-**优惠码**：无（Basic 年付 ¥168 即为特惠价）
-
-**机场信息**
-- 入口与过境：全部境外直连（无国内入口）
-- 节点地区：香港、台湾、日本、韩国、新加坡、马来西亚、菲律宾、泰国、越南、印尼、土耳其、阿联酋、美国、英国、德国、法国、巴西等 17+ 国家及地区
-- 落地 ISP：Eons Data Communications Limited（香港自有机房）
-- 节点数量：70 个（可用 65/70，93%）
-- 协议：TROJAN×65 / VMESS×5
-- 平均延迟：55ms（最低 51.1ms，🇲🇾 马来西亚01）
-- 设备限制：5-15 台（按套餐）
-- 峰值速率：5Gbps（不限速）
-- 付款方式：支付宝 / 微信
-- 一键客户端：Windows / Mac / Android
-
-**优势**：
-- 香港自有机房专柜，环球多地接入点，节点延迟稳定 50-60ms。
-- 全境外直连入口，绕开国内入口被通报的风险，敏感时期稳定。
-- 不限速峰值 5Gbps，AI 流媒体（Netflix / Disney+ / ChatGPT）全解锁。
-- 提供「不限时一次性流量包」（280G/680G/2048G），适合做长期备用底牌。
-
-**缺点**：
-- 入口全部为境外直连，电信用户某些时段路由不如国内入口稳。
-- 价格按量包档位偏高（如 280G ¥98）。
-
-**使用体验**：
-香港 + 台湾 + 新加坡 + 日本延迟稳定在 50-55ms，刷 4K 完全无压力；想要长期稳定备用、又不想月月续费的话，直接 ¥168/年 Basic 拿下即可。
-
-**套餐一览**：
-- Basic（特惠）：¥168/年（168GB/月，5 台设备）
-- Pro：¥38/月、¥110/季、¥210/半年、¥380/年（388GB/月，10 台设备）
-- Max：¥58/月、¥170/季、¥330/半年、¥580/年（788GB/月，15 台设备）
-- 280G 不限时：¥98/一次性
-- 680G 不限时：¥258/一次性
-- 2048G 不限时：¥598/一次性
-
----
-
 <span id="tangguo"></span>
-### 10. 糖果云
+### 9. 糖果云
 **官网入口**：[糖果云官网](https://go.clashshome.com/tangguoyun)
 **优惠码**：无
 
@@ -548,7 +506,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wandayun"></span>
-### 11. 万达云机场
+### 10. 万达云机场
 **官网入口**：[万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)   
 **优惠码**：无
 
@@ -584,7 +542,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="ssrdog"></span>
-### 12. SSRDOG
+### 11. SSRDOG
 **官网入口**：[SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
 **优惠码**：无（年付享6折优惠，并赠送2个月，适用轻量/标准/企业套餐）
 
@@ -620,7 +578,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wugui"></span>
-### 13. 乌龟加速
+### 12. 乌龟加速
 **官网入口**：[乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)   
 **优惠码**：`ABING888`（全场 8 折）
 
@@ -665,7 +623,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
-- 2026-06-11：新增[奈云](#naiyun)，奈云所有架构节点后台重构升级完成
+- 2026-07-02：更新节点
 - 2026-05-29：将[特朗普云 TrumpYun](#trumpyun)调整至"性价比最高推荐"分类，位列红杏云之后
 - 2026-05-19：新增[特朗普云 TrumpYun](#trumpyun)
 - 2026-05-13：更新[宝可梦加速器](#baokemeng)价格

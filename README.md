@@ -24,17 +24,16 @@
   - [3. 快雷GO](#kuaileigo)
 - [其他性价比机场（按月付价格排列）](#others)
   - [1. 飞鸟云](#feiniaoyun)
-  - [2. 杜卡迪](#dukadi)
-  - [3. 悦通](#yuetong)
-  - [4. Mitce](#mitce)
-  - [5. cocoduck](#cocoduck)
-  - [6. M78 星云](#m78)
-  - [7. 宝可梦加速](#baokemeng)
-  - [8. 渔云](#yuyun)
-  - [9. 糖果云](#tangguo)
-  - [10. 万达云](#wandayun)
-  - [11. SSRDOG](#ssrdog)
-  - [12. 乌龟加速](#wugui)
+  - [2. 悦通](#yuetong)
+  - [3. Mitce](#mitce)
+  - [4. cocoduck](#cocoduck)
+  - [5. M78 星云](#m78)
+  - [6. 宝可梦加速](#baokemeng)
+  - [7. 渔云](#yuyun)
+  - [8. 糖果云](#tangguo)
+  - [9. 万达云](#wandayun)
+  - [10. SSRDOG](#ssrdog)
+  - [11. 乌龟加速](#wugui)
 - [总结与建议](#summary)
 - [更新记录](#update)
 - [免责声明](#disclaimer)
@@ -57,17 +56,16 @@
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
 | 1 | [飞鸟云](https://go.clashshome.com/feiniaoyun) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP) |
-| 2 | [杜卡迪](https://go.clashshome.com/dukadi) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT | [备用地址](https://dukadi.info/#/register?code=pHzXpXg3) |
-| 3 | [悦通](https://go.clashshome.com/yuetong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX) |
-| 4 | [Mitce](https://go.clashshome.com/mitcejc) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=33445) |
-| 5 | [cocoduck](https://go.clashshome.com/cocoduck) | ¥6.40 / 月 (¥77/年) | 全球AI支持 | 稳定全球AI支持 | [备用地址](https://dash.cocoduck.live/auth/register?code=dd1f788232) |
-| 6 | [M78 星云](https://go.clashshome.com/m78xingyun) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/#/register?code=jv0lwSHb) |
-| 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
-| 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
-| 9 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
-| 10 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
-| 11 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
-| 12 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
+| 2 | [悦通](https://go.clashshome.com/yuetong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX) |
+| 3 | [Mitce](https://go.clashshome.com/mitcejc) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=33445) |
+| 4 | [cocoduck](https://go.clashshome.com/cocoduck) | ¥6.40 / 月 (¥77/年) | 全球AI支持 | 稳定全球AI支持 | [备用地址](https://dash.cocoduck.live/auth/register?code=dd1f788232) |
+| 5 | [M78 星云](https://go.clashshome.com/m78xingyun) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/#/register?code=jv0lwSHb) |
+| 6 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥8.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
+| 7 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
+| 8 | [糖果云](https://go.clashshome.com/tangguoyun) | ¥18.00 / 月 | IEPL专线+赠EMBY | 解锁流媒体 | [备用地址](https://candytally.monster/?code=KnAaIUBM) |
+| 9 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
+| 10 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
+| 11 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
 
 ---
 
@@ -235,43 +233,8 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 ---
 
-<span id="dukadi"></span>
-### 2. 杜卡迪
-**官网入口**：[杜卡迪官网](https://go.clashshome.com/dukadi)，[备用地址](https://dukadi.info/#/register?code=pHzXpXg3)   
-**优惠码**：无
-
-**机场信息**
-- 开业时间：待补充
-- 节点地区：全球主流地区
-- 节点数量：待补充
-- 协议：Hysteria2
-- 设备限制：不限制
-- 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/dukadi996)
-- 一键客户端：无
-
-**优势**：
-- 同样提供年付12元的传家套餐，每月200G流量，性价比极高。
-- 高速专线接入，延迟极低。
-- 支持解锁流媒体及ChatGPT。
-
-**缺点**：
-- 传家套餐限速100Mbps。
-- 无一键客户端。
-- 偶尔超时，要等修复。
-
-**使用体验**：
-流量给得很足，12元一年能有每月200G，日常查资料看视频完全够用。相比较于外面万人骑的一元机场，杜卡迪还是很值的。
-
-**套餐一览**：
-- 传家套餐：¥12/年（200GB/月，限速100Mbps）
-- 入门套餐：¥9.9/月（2000GB/月，限速300Mbps）
-- 中级套餐：¥24/月（6000GB/月，不限速）
-
----
-
 <span id="yuetong"></span>
-### 3. 悦通
+### 2. 悦通
 **官网入口**：[悦通官网](https://go.clashshome.com/yuetong)，[备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX)   
 **优惠码**：`无`
 
@@ -305,7 +268,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="mitce"></span>
-### 4. Mitce
+### 3. Mitce
 **官网入口**：[Mitce官网](https://go.clashshome.com/mitcejc)，[备用地址](https://mitce.net/aff.php?aff=33445)   
 **优惠码**：`SAKURA2026`（日本优化线路套餐锁定终身 8 折）
 
@@ -338,7 +301,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="cocoduck"></span>
-### 5. cocoduck
+### 4. cocoduck
 **官网入口**：[cocoduck官网](https://go.clashshome.com/cocoduck)，[备用地址](https://dash.cocoduck.live/auth/register?code=dd1f788232)   
 **优惠码**：无
 
@@ -371,7 +334,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="m78"></span>
-### 6. M78 星云
+### 5. M78 星云
 **官网入口**：[M78 星云官网](https://go.clashshome.com/m78xingyun)，[备用地址](https://www.m78.at/#/register?code=jv0lwSHb)   
 **优惠码**：`season85`（季付 85 折）| `halfyear82`（半年付 82 折）| `year80`（年付 8 折）
 
@@ -404,7 +367,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="baokemeng"></span>
-### 7. 宝可梦加速
+### 6. 宝可梦加速
 **官网入口**：[宝可梦加速官网](https://go.clashshome.com/baokemeng)，[备用地址](https://love.p6m6.com/#/register?code=74mX69ks)   
 **优惠码**：`9999`（新用户首单 9 折）
 
@@ -437,7 +400,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="yuyun"></span>
-### 8. 渔云机场
+### 7. 渔云机场
 **官网入口**：[渔云官网](https://go.clashshome.com/yuyunjc)，[备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp)   
 **优惠码**：无
 
@@ -470,7 +433,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="tangguo"></span>
-### 9. 糖果云
+### 8. 糖果云
 **官网入口**：[糖果云官网](https://go.clashshome.com/tangguoyun)
 **优惠码**：无
 
@@ -506,7 +469,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wandayun"></span>
-### 10. 万达云机场
+### 9. 万达云机场
 **官网入口**：[万达云官网](https://go.clashshome.com/wandayun)，[备用地址](https://link.wdyserver.com/register?code=kfKBXYDH)   
 **优惠码**：无
 
@@ -542,7 +505,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="ssrdog"></span>
-### 11. SSRDOG
+### 10. SSRDOG
 **官网入口**：[SSRDOG 官网](https://go.clashshome.com/ssrdog)，[备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O)
 **优惠码**：无（年付享6折优惠，并赠送2个月，适用轻量/标准/企业套餐）
 
@@ -578,7 +541,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 ---
 
 <span id="wugui"></span>
-### 12. 乌龟加速
+### 11. 乌龟加速
 **官网入口**：[乌龟加速官网](https://go.clashshome.com/wuguijiasu)，[备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt)   
 **优惠码**：`ABING888`（全场 8 折）
 
@@ -615,7 +578,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 在选择**性价比机场**时，不要仅仅盯着价格看。**一元机场**和**便宜机场**虽然诱人，但往往在晚高峰速度或节点稳定性上有所妥协。建议采用"主备结合"的策略：
 1. 购买一个带有专线的高性价比机场作为主力（如**红杏云**、**特朗普云**、**快雷GO**），稳定性和解锁能力都有保障。
-2. 搭配一个极低价格的年付机场（如飞鸟云、杜卡迪）或不限时流量包（如悦通）作为备用。
+2. 搭配一个极低价格的年付机场（如飞鸟云）或不限时流量包（如悦通）作为备用。
 
 这样既能保证日常使用的流畅度，又能在突发情况下永不断网，实现真正的低价高性价比体验。
 
@@ -623,6 +586,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 <span id="update"></span>
 ## 📌 更新记录
+- 2026-07-20：更新机场
 - 2026-07-02：更新节点
 - 2026-05-29：将[特朗普云 TrumpYun](#trumpyun)调整至"性价比最高推荐"分类，位列红杏云之后
 - 2026-05-19：新增[特朗普云 TrumpYun](#trumpyun)
@@ -633,7 +597,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 - 2026-04-20：更新快雷GO价格信息
 - 2026-04-17：新增 SSRDOG 机场介绍；更新万达云最新套餐价格
 - 2026-04-16：新增官网备用地址
-- 2026-04-15：全新发布 2026 年性价比机场推荐指南，收录并整理了市面上优质的一元机场、便宜机场和低价梯子，新增杜卡迪、cocoduck 等高性价比选项。
+- 2026-04-15：全新发布 2026 年性价比机场推荐指南，收录并整理了市面上优质的一元机场、便宜机场和低价梯子，新增 cocoduck 等高性价比选项。
 
 ---
 

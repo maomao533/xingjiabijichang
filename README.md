@@ -582,6 +582,7 @@ IEPL专线全覆盖，速度一流，电信方向优化后速度和稳定性都�
 
 这样既能保证日常使用的流畅度，又能在突发情况下永不断网，实现真正的低价高性价比体验。
 
+更多：[指纹浏览器推荐](https://github.com/Abao130/AntidetectBrowser)·[VPS推荐](https://github.com/Abao130/VPStuijian)
 ---
 
 <span id="update"></span>
